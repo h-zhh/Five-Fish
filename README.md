@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Five-Fish
-- 👀 Senior English major at Shanghai University, translation intern at NYUSH
-- 🌱 Interested in Python and R
-- 💞️ This account is mostly used for managing files (eg. essays), but might be used for learning coding in the future.
+- 👀 Currently in Erasmus Mundus - Language and Communication Technology 
+- 🌱 Will be studying in University of Lorraine and University of Trento in the next two years
+
 
 <!---
 Five-Fish/Five-Fish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
