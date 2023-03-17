@@ -1,6 +1,6 @@
 ## Personal Info
 
-- 👋 Hi, I’m @h-zhh
+- 👋 Hi, I’m Zhihan@h-zhh
 - 👀 Currently a student in Erasmus Mundus - Language and Communication Technology program
 - 👀 Will be studying in University of Lorraine and University of Trento from 2022 to 2024
 - 🌱 Passionate in Machine Learning and AI, especially Natural Language Processing (NLP)
