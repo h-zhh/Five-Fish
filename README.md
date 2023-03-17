@@ -9,7 +9,7 @@
 ## Projects
 ### ML/NLP
 - [Bridging Language Gaps in Wikipedia with Neural Machine Translation](https://github.com/edgolyakova/wiki)
-- [ASR System for SLODiM Platform](https://github.com/h-zhh/slodim-asr)
+- [ASR System for SLODiM Platform](https://github.com/h-zhh/slodim-asr) (in progress)
 
 ### SDE
 - [Travel agency website built with React.js](https://github.com/h-zhh/react-travel-website)
