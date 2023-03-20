@@ -12,6 +12,7 @@
 - [ASR System for SLODiM Platform](https://github.com/h-zhh/slodim-asr) (in progress)
 
 ### SDE
+- [Full-stack Tech Blog built with MERN](https://github.com/h-zhh/mern-techblog)
 - [Travel agency website built with React.js](https://github.com/h-zhh/react-travel-website)
 
 <!---
