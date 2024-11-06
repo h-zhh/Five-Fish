@@ -10,6 +10,7 @@
 ### ML/NLP
 - [Bridging Language Gaps in Wikipedia with Neural Machine Translation](https://github.com/edgolyakova/wiki)
 - [ASR System for SLODiM Platform](https://github.com/h-zhh/slodim-asr)
+- [Exploring Impact of Self-supervised Learning on Active Learning](https://github.com/h-zhh/active-learning-with-self-supervision)
 
 ### LLM
 
